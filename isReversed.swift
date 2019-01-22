@@ -19,8 +19,6 @@ func isReversed(_ val: Int) -> Bool {
         valLength += 1
     }
     
-    valLength
-    
     // reuse valAux for other purpose to optimize memory
     valAux = val
     var revVal = 0
