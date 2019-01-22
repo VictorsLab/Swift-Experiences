@@ -1,3 +1,5 @@
+import Foundation
+
 /** An isReversed implementation using only mathematical functions. 
 The function is divided in two parts: first it get the length of the input number, 
 dividing it by 10 and incrementing a length variable. Then, using the length information, 
